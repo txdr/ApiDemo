@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Taylor\\OneDrive\\Desktop\\2026-College\\ASP.NET\\ApiDemo\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D58609BC-EEDD-5ECC-50AC-013D5ACCDBF3}|ApiDemo.csproj|c:\\users\\taylor\\onedrive\\desktop\\2026-college\\asp.net\\apidemo\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{D58609BC-EEDD-5ECC-50AC-013D5ACCDBF3}|ApiDemo.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D58609BC-EEDD-5ECC-50AC-013D5ACCDBF3}|ApiDemo.csproj|c:\\users\\taylor\\onedrive\\desktop\\2026-college\\asp.net\\apidemo\\pages\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D58609BC-EEDD-5ECC-50AC-013D5ACCDBF3}|ApiDemo.csproj|solutionrelative:pages\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -34,11 +38,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "ReadMe.MD",
+              "DocumentMoniker": "C:\\Users\\Taylor\\OneDrive\\Desktop\\2026-College\\ASP.NET\\ApiDemo\\ReadMe.MD",
+              "RelativeDocumentMoniker": "ReadMe.MD",
+              "ToolTip": "C:\\Users\\Taylor\\OneDrive\\Desktop\\2026-College\\ASP.NET\\ApiDemo\\ReadMe.MD*",
+              "RelativeToolTip": "ReadMe.MD*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-11-21T16:45:52.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Dashboard.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\Taylor\\OneDrive\\Desktop\\2026-College\\ASP.NET\\ApiDemo\\Pages\\Dashboard.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Dashboard.cshtml.cs",
@@ -46,12 +63,11 @@
               "RelativeToolTip": "Pages\\Dashboard.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-12T00:37:25.164Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-12T00:37:25.164Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Dashboard.cshtml",
               "DocumentMoniker": "C:\\Users\\Taylor\\OneDrive\\Desktop\\2026-College\\ASP.NET\\ApiDemo\\Pages\\Dashboard.cshtml",
               "RelativeDocumentMoniker": "Pages\\Dashboard.cshtml",
@@ -64,7 +80,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Taylor\\OneDrive\\Desktop\\2026-College\\ASP.NET\\ApiDemo\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -72,12 +88,11 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-11T23:56:16.964Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-11T23:56:16.964Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "BlogDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Taylor\\OneDrive\\Desktop\\2026-College\\ASP.NET\\ApiDemo\\Data\\BlogDbContext.cs",
               "RelativeDocumentMoniker": "Data\\BlogDbContext.cs",
@@ -89,7 +104,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Post.cs",
               "DocumentMoniker": "C:\\Users\\Taylor\\OneDrive\\Desktop\\2026-College\\ASP.NET\\ApiDemo\\Models\\Post.cs",
               "RelativeDocumentMoniker": "Models\\Post.cs",
@@ -101,7 +116,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "PostsController.cs",
               "DocumentMoniker": "C:\\Users\\Taylor\\OneDrive\\Desktop\\2026-College\\ASP.NET\\ApiDemo\\Controllers\\PostsController.cs",
               "RelativeDocumentMoniker": "Controllers\\PostsController.cs",
