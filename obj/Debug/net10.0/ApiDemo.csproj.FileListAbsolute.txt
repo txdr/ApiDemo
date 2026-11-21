@@ -270,3 +270,4 @@ C:\Users\Taylor\OneDrive\Desktop\2026-College\ASP.NET\ApiDemo\bin\Debug\net10.0\
 C:\Users\Taylor\OneDrive\Desktop\2026-College\ASP.NET\ApiDemo\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
 C:\Users\Taylor\OneDrive\Desktop\2026-College\ASP.NET\ApiDemo\bin\Debug\net10.0\runtimes\win\lib\net9.0\System.Windows.Extensions.dll
 C:\Users\Taylor\OneDrive\Desktop\2026-College\ASP.NET\ApiDemo\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\Users\Taylor\OneDrive\Desktop\2026-College\ASP.NET\ApiDemo\obj\Debug\net10.0\ApiDemo.sourcelink.json

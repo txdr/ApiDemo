@@ -9,3 +9,5 @@ After building, just simply run `ApiDemo.exe` in the directory the build result 
 # Screenshots
 
 ![Example](assets/Screenshot_1.png)
+
+![Example1](assets/example.png)

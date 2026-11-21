@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Taylor\\OneDrive\\Desktop\\2026-College\\ASP.NET\\ApiDemo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D58609BC-EEDD-5ECC-50AC-013D5ACCDBF3}|ApiDemo.csproj|c:\\users\\taylor\\onedrive\\desktop\\2026-college\\asp.net\\apidemo\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{D58609BC-EEDD-5ECC-50AC-013D5ACCDBF3}|ApiDemo.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D58609BC-EEDD-5ECC-50AC-013D5ACCDBF3}|ApiDemo.csproj|c:\\users\\taylor\\onedrive\\desktop\\2026-college\\asp.net\\apidemo\\pages\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D58609BC-EEDD-5ECC-50AC-013D5ACCDBF3}|ApiDemo.csproj|solutionrelative:pages\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D58609BC-EEDD-5ECC-50AC-013D5ACCDBF3}|ApiDemo.csproj|c:\\users\\taylor\\onedrive\\desktop\\2026-college\\asp.net\\apidemo\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{D58609BC-EEDD-5ECC-50AC-013D5ACCDBF3}|ApiDemo.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D58609BC-EEDD-5ECC-50AC-013D5ACCDBF3}|ApiDemo.csproj|c:\\users\\taylor\\onedrive\\desktop\\2026-college\\asp.net\\apidemo\\pages\\dashboard.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,17 +38,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ReadMe.MD",
               "DocumentMoniker": "C:\\Users\\Taylor\\OneDrive\\Desktop\\2026-College\\ASP.NET\\ApiDemo\\ReadMe.MD",
               "RelativeDocumentMoniker": "ReadMe.MD",
-              "ToolTip": "C:\\Users\\Taylor\\OneDrive\\Desktop\\2026-College\\ASP.NET\\ApiDemo\\ReadMe.MD*",
-              "RelativeToolTip": "ReadMe.MD*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Taylor\\OneDrive\\Desktop\\2026-College\\ASP.NET\\ApiDemo\\ReadMe.MD",
+              "RelativeToolTip": "ReadMe.MD",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
               "WhenOpened": "2026-11-21T16:45:52.729Z",
               "EditorCaption": ""
@@ -67,13 +67,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Dashboard.cshtml",
               "DocumentMoniker": "C:\\Users\\Taylor\\OneDrive\\Desktop\\2026-College\\ASP.NET\\ApiDemo\\Pages\\Dashboard.cshtml",
               "RelativeDocumentMoniker": "Pages\\Dashboard.cshtml",
               "ToolTip": "C:\\Users\\Taylor\\OneDrive\\Desktop\\2026-College\\ASP.NET\\ApiDemo\\Pages\\Dashboard.cshtml",
               "RelativeToolTip": "Pages\\Dashboard.cshtml",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAwBkAAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAwCYAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-11-12T00:37:06.556Z",
               "EditorCaption": ""
